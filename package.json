@@ -1,0 +1,23 @@
+{
+  "name": "generators-playground",
+  "version": "1.0.0",
+  "description": "## About Notes related to generators and promises workshop at Js Hack Night meetup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel-node": "babel-node --stage 0 --ignore='foo|bar|baz'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzaghal/generatorsPlayground.git"
+  },
+  "author": "Wisam Zaghal <wisamzaghal@gmail.com> (http://wisam.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wzaghal/generatorsPlayground/issues"
+  },
+  "homepage": "https://github.com/wzaghal/generatorsPlayground#readme",
+  "dependencies": {
+    "chalk": "^1.0.0"
+  }
+}

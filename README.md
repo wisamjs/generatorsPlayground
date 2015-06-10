@@ -1,4 +1,4 @@
 # generatorsPlayground
 
 ## About
-Notes related to generators and promises workshop at Js Hack Night meetup.
+Code related to generators and promises workshop at Js Hack Night meetup.
